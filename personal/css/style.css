@@ -1,0 +1,53 @@
+body{
+    background-color: #EFF5CC;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+p{ 
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 24px;
+    color: #3B0B39
+
+}
+
+.logo{
+    margin-top: 0;
+    margin-left:50px;
+}
+
+.redes{
+    margin-top: 200px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+title{
+    background-color: lightblue;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 200px;
+}
+
+h1 {
+    color: gray;
+}
+
+
+
+ul{
+    text-align: left;
+}
+
+ul li{
+	list-style-type:none;
+}
+
+.contenedor{
+    margin: 0 auto;
+    width: 900px;
+    background: white;
+    padding: 20px;
+}
